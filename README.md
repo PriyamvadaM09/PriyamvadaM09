@@ -22,9 +22,9 @@
 |---|---|
 | 🎯 **Focus** | AI/ML & data programs · cloud data migration · SDLC delivery |
 | ⚙️ **Methods** | Agile · Scrum · SAFe · Kanban · Waterfall · Hybrid |
-| 🛡️ **Governance** | Risk management · Change Control Board (CCB) · SLA management · QA |
+| 🛡️ **Governance** | Risk management · SLA management · QA |
 | 🎓 **Education** | M.S. Project Management, Clark University (2024–2025) |
-| 📜 **Certificates** | Google Project Management · McKinsey.org Forward Program · PMP |
+| 📜 **Certificates** | PMP · Google Project Management |
 
 ---
 
