@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Priyamvada Maan, Technical Project Manager">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#ffffff" stroke-width="1">
+    <path d="M0 60H1000M0 120H1000M0 180H1000M200 0V240M400 0V240M600 0V240M800 0V240"/>
+  </g>
+  <circle cx="880" cy="60" r="90" fill="#38bdf8" opacity="0.10"/>
+  <circle cx="940" cy="190" r="60" fill="#34d399" opacity="0.10"/>
+  <text x="500" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Priyamvada Maan</text>
+  <rect x="380" y="130" width="240" height="4" rx="2" fill="url(#accent)"/>
+  <text x="500" y="172" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#cfe8f3">Technical Project Manager  |  AI/ML &amp; Data Programs</text>
+</svg>
