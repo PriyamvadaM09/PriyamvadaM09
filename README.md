@@ -22,9 +22,9 @@
 |---|---|
 | 🎯 **Focus** | AI/ML & data programs · cloud data migration · SDLC delivery |
 | ⚙️ **Methods** | Agile · Scrum · SAFe · Kanban · Waterfall · Hybrid |
-| 🛡️ **Governance** | Risk management · SLA management · QA |
+| 🛡️ **Governance** | Risk management · Change Control Board (CCB) · SLA management · QA |
 | 🎓 **Education** | M.S. Project Management, Clark University (2024–2025) |
-| 📜 **Certificates** | PMP · Google Project Management ·  |
+| 📜 **Certificates** | Google Project Management · McKinsey.org Forward Program · PMP |
 
 ---
 
@@ -42,7 +42,7 @@
 
 > Three connected pieces of work: **research → prototype → predictive system.** Each repo is written as a delivery case study: scope, plan, risks, decisions and results.
 
-### 1️⃣ [AI Adoption Readiness for 50 U.S. States](https://github.com/YOUR_USERNAME/ai-adoption-prediction-us-states)
+### 1️⃣ [AI Adoption Readiness for 50 U.S. States](https://github.com/PriyamvadaM09/ai-adoption-prediction-us-states)
 *A sprint-based delivery case study: from stakeholder question to governed decision-support system.*
 
 - **Delivery:** 3 sprints, a 3-week Sprint 3 plan with 6 prioritized tasks and 3 milestones
@@ -50,11 +50,11 @@
 - **Targets set up front:** under 1 second response time, 99.5% availability, drift and error alerts
 - **Result:** best model scored 92.3% accuracy on a 13-state hold-out (proof of concept, documented as such)
 
-[📂 Repository](https://github.com/YOUR_USERNAME/ai-adoption-prediction-us-states) · [📓 Colab](https://colab.research.google.com/drive/1tTaHX52db8-wvk36zfjUXD7-VOaRcVXX?usp=sharing)
+[📂 Repository](https://github.com/PriyamvadaM09/ai-adoption-prediction-us-states) · [📓 Colab](https://colab.research.google.com/drive/1tTaHX52db8-wvk36zfjUXD7-VOaRcVXX?usp=sharing)
 
 ---
 
-### 2️⃣ [FARSIGHT — Future-Ready AI Storage Strategy Assistant](https://github.com/YOUR_USERNAME/farsight-ai-storage-strategy)
+### 2️⃣ [FARSIGHT — Future-Ready AI Storage Strategy Assistant](https://github.com/PriyamvadaM09/farsight-ai-storage-strategy)
 *An explainable decision-support prototype, taken from research idea to tested working tool.*
 
 - **Design principle:** decision support with human review, not automation
@@ -62,18 +62,18 @@
 - **Quality:** 5-item defect log, each with a fix and a lesson
 - **Honest limits:** built on synthetic data, so illustrative only
 
-[📂 Repository](https://github.com/YOUR_USERNAME/farsight-ai-storage-strategy) · [📓 Colab](https://colab.research.google.com/drive/1pqkXV7V7qEIoOj_Hckg12q_RBh42px_n?usp=sharing)
+[📂 Repository](https://github.com/PriyamvadaM09/farsight-ai-storage-strategy) · [📓 Colab](https://colab.research.google.com/drive/1pqkXV7V7qEIoOj_Hckg12q_RBh42px_n?usp=sharing)
 
 ---
 
-### 3️⃣ [The Future of AI Data Storage — Research Brief](https://github.com/YOUR_USERNAME/future-of-ai-data-storage)
+### 3️⃣ [The Future of AI Data Storage — Research Brief](https://github.com/PriyamvadaM09/future-of-ai-data-storage)
 *Strategic research for infrastructure planning, Clark University, SPS Project Management.*
 
 - **The gap:** demand growth (about 165% by 2030, per the poster) outpaces storage capacity growth (about 70%); data-center power demand nearly triples
 - **Method:** 5-step research plan, 5 technology categories, 5 evaluation criteria
 - **Output:** 6 recommendations and a now / targeted / watch roadmap
 
-[📂 Repository](https://github.com/YOUR_USERNAME/future-of-ai-data-storage)
+[📂 Repository](https://github.com/PriyamvadaM09/future-of-ai-data-storage)
 
 ---
 
@@ -95,10 +95,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyamvadaM09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamvadaM09&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=PriyamvadaM09&theme=tokyonight&hide_border=true" alt="streak"/>
 
 </div>
 
