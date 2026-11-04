@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Priyamvada%20Maan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Technical%20Project%20Manager%20%7C%20AI%2FML%20%26%20Data%20Programs&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Priyamvada Maan banner"/>
+<img src="banner.svg" width="100%" alt="Priyamvada Maan, Technical Project Manager"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Delivering+AI%2FML+programs+on+time+and+on+scope;Enterprise+cloud+data+migration+%26+modernization;Agile+%7C+Scrum+%7C+Hybrid+%7C+SDLC;Turning+complex+systems+into+clear+roadmaps" alt="Typing animation"/>
 
@@ -22,9 +22,9 @@
 |---|---|
 | 🎯 **Focus** | AI/ML & data programs · cloud data migration · SDLC delivery |
 | ⚙️ **Methods** | Agile · Scrum · SAFe · Kanban · Waterfall · Hybrid |
-| 🛡️ **Governance** | Risk management · SLA management · QA |
+| 🛡️ **Governance** | Risk management · Change Control Board (CCB) · SLA management · QA |
 | 🎓 **Education** | M.S. Project Management, Clark University (2024–2025) |
-| 📜 **Certificates** | PMP · Google Project Management |
+| 📜 **Certificates** | Google Project Management · McKinsey.org Forward Program · PMP |
 
 ---
 
@@ -106,8 +106,6 @@
 
 <div align="center">
 
-**📫 Open to Technical Project Manager roles in AI/ML, data and cloud programs.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer" width="100%"/>
+<img src="footer.svg" width="100%" alt="Open to Technical Project Manager roles"/>
 
 </div>
